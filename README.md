@@ -1,4 +1,4 @@
 # collage
 First git repository
 <br>
-By Rahul
+By Rahul Verma (collage)
